@@ -1,0 +1,14 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    flex-wrap:wrap;
+    float:right;
+}
+.img{
+   size: 10px;
+
+    
+}
+.p{
+    font-size:xx-large;
+}
